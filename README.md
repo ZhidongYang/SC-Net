@@ -18,5 +18,7 @@ mrcfile 1.3.0 <br>
 topaz-em 0.2.4 <br>
 numba 0.51.2 <br>
 
+# Pretrained Model
+ Pretrained models will be available on Google Drive.
 
 More information is on the way......
