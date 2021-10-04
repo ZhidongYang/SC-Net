@@ -8,15 +8,15 @@ Cryo-Electron Tomography (cryo-ET) is a powerful tool for 3D cellular visualizat
 Ubuntu 18.04 or CentOS7
 
 # Requirements
-Python 3.6.13
-Pytorch 1.7.1
-opencv-python 4.5.1
-numpy 1.19.2
-scikit-image 0.17.1
-scikit-learn 0.24.2
-mrcfile 1.3.0
-topaz-em 0.2.4
-numba 0.51.2
+Python 3.6.13 <br>
+Pytorch 1.7.1 <br>
+opencv-python 4.5.1 <br>
+numpy 1.19.2 <br>
+scikit-image 0.17.1 <br>
+scikit-learn 0.24.2 <br>
+mrcfile 1.3.0 <br>
+topaz-em 0.2.4 <br>
+numba 0.51.2 <br>
 
 
 More information is on the way......
