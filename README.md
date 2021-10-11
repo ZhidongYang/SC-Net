@@ -19,6 +19,7 @@ topaz-em 0.2.4 <br>
 numba 0.51.2 <br>
 
 # Pretrained Model
- Pretrained models will be available on Google Drive.
+ Pretrained models and training dataset will be available on Google Drive.
+ This may take a few days, coming soon...
 
 More information is on the way......
