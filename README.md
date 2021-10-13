@@ -33,7 +33,7 @@ DATASET_NAME <br>
 
 ## Usage
     sh run.sh
-For detailed parameter settings, please run
+### For detailed parameter settings, please run
     python main.py --help
 
 More information is on the way......
