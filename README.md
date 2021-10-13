@@ -21,8 +21,8 @@ numba 0.51.2 <br>
 ## Pretrained Model
  Pretrained models for real-world datasets : https://drive.google.com/file/d/18yaCdxlLbNU_eg1cIkgFIE9LpaxiF83E/view?usp=sharing  <br>
  Real-World Training dataset will be available on Google Drive. This may take a few days, coming soon...
-
-## Training data directory is advised to build as follow
+## Usage
+#### Training data directory is advised to build as follow
 ```
 DATASET_NAME
 -- test
@@ -31,10 +31,9 @@ DATASET_NAME
 -- val_noisy
 -- val_prior
 ```
-
-## Usage
+#### Run training/testing script
     sh run.sh
-### For detailed parameter settings, please run
+#### For detailed parameter settings, please run
     python main.py --help
 
 More information is on the way......
