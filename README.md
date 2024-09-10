@@ -43,6 +43,7 @@ Alexander Krull, Tim-Oliver Buchholz, Florian Jug. Noise2Void - Learning Denoisi
 
 
 ## Citation
+```
 @InProceedings{Yang_2021_ICCV,
     author    = {Yang, Zhidong and Zhang, Fa and Han, Renmin},
     title     = {Self-Supervised Cryo-Electron Tomography Volumetric Image Restoration From Single Noisy Volume With Sparsity Constraint},
@@ -51,4 +52,5 @@ Alexander Krull, Tim-Oliver Buchholz, Florian Jug. Noise2Void - Learning Denoisi
     year      = {2021},
     pages     = {4056-4065}
 }
+```
 
